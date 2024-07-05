@@ -1,0 +1,6 @@
+nombre = input("ingrese su nombre")
+comision = int(input("ingrese su numero de comision"))
+asignatura = input("¿que asignatura?")
+docente = input("¿que docente?")
+asistencia = bool(input("¿ingreso a la ultima clase?"))
+print("nombre: ", nombre, "comision: " , comision, "asignatura: ", asignatura, "docente: ", docente, "asistencia: ", asistencia)
